@@ -26,7 +26,7 @@ void interface() {
       print(soma(aux));
     } else {
       if (entrada != 'sair') {
-        print('não é um valor inteiro');
+        print('Por favor digite um valor inteiro');
       }
     }
   }
