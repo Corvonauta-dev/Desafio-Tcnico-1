@@ -6,3 +6,5 @@ Exemplos:
 dos números 3, 5, 6 e 9 que são menores que 10.
 - Caso sua função receba o inteiro 11, ela deve retornar 33, resultante do somatório
 dos números 3, 5, 6, 9 e 10 que são menores que 11.
+
+Instruções de execução:
